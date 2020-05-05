@@ -1,0 +1,5 @@
+rootProject.name = 'movie_catalog'
+include 'movie_catalog-core'
+include 'movie_catalog-web'
+include 'movie_catalog-client'
+

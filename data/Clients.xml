@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clients>
+    <client id = "1">
+        <name>name1</name>
+        <age>18</age>
+    </client>
+    <client id = "2">
+        <name>name2</name>
+        <age>19</age>
+    </client>
+    <client id = "3">
+        <name>name3</name>
+        <age>20</age>
+    </client>
+</Clients>

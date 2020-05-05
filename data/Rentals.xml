@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rentals>
+    <rental id = "1">
+        <clientID>1</clientID>
+        <movieID>2</movieID>
+    </rental>
+    <rental id = "2">
+        <clientID>1</clientID>
+        <movieID>2</movieID>
+    </rental>
+    <rental id = "3">
+        <clientID>2</clientID>
+        <movieID>1</movieID>
+    </rental>
+</Rentals>
